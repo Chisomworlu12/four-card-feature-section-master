@@ -29,9 +29,7 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://four-card-feature-section-master-seven-rouge.vercel.app/)
 
 
 
@@ -50,9 +48,9 @@ i learn how to us the overflow-hidden in tailwind css while designing
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Linkedin - [Chisom Worlu](https://www.linkedin.com/in/chisomworlu)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@chisomwo](https://x.com/chisomwo)
 
 
 
